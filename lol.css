@@ -723,11 +723,6 @@ code {
     mask: unset;
 }
  
-.avatar-3uk_u9,
-.avatar-VxgULZ,
-.avatar-1EWyVD,
-.avatar_ec86aa,
-.avatar-1BXaQj {
-.wrapper-3t9DeA {
+[class^="avatar-"] {
     border-radius: 0% !important; /* Removes the border-radius making the avatar square */
 }
