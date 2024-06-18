@@ -729,5 +729,5 @@ code {
 .avatar_ec86aa,
 .avatar-1BXaQj {
 .wrapper-3t9DeA {
-    border-radius: 15% !important; /* Removes the border-radius making the avatar square */
+    border-radius: 0% !important; /* Removes the border-radius making the avatar square */
 }
