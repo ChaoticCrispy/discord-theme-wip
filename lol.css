@@ -701,7 +701,7 @@ code {
     font-size: 0px;
     background-color: var(--background-floating);
     float: left;
-    border-radius: 00%;
+    border-radius: 0%;
     height: 94px;
     width: 94px;
     margin: -7px;
