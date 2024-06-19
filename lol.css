@@ -724,7 +724,7 @@ code {
 }
  
 [class*="avatar_"],
-[class^="wrapper_"]
+[class*="wrapper_"]
 [class*="clickable_"] {
-    border-radius: 15% !important; /* Removes the border-radius making the avatar square */
+    border-radius: 15% !important;
 }
