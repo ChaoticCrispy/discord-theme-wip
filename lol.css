@@ -728,3 +728,7 @@ code {
 [class*="clickable_"] {
     border-radius: 15% !important;
 }
+
+foreignObject[mask="url(#svg-mask-avatar-status-round-32)"] {
+    mask: none !important;
+}
